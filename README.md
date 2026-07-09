@@ -9,3 +9,9 @@ Interactive Streamlit dashboard for pricing European options, calculating Greeks
 - Real option-chain data using yfinance
 - Implied volatility surface visualization with Plotly
 - Unit tests with pytest# options-analytics-dashboard
+
+## Run Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
