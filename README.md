@@ -1,6 +1,6 @@
 # Options Pricing & Market Analytics Dashboard
 
-Interactive Streamlit dashboard for pricing European options, calculating Greeks, analyzing live option-chain data, and visualizing implied volatility surfaces.
+Interactive Streamlit dashboard for pricing European options, calculating Greeks, analyzing real market option data, and visualizing implied volatility surfaces.
 
 ## Features
 - Black-Scholes, binomial tree, and Monte Carlo option pricing
